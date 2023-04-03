@@ -9,6 +9,7 @@
         <entry key="..\:/Users/DELL/PostApi/app/src/main/res/drawable/skycolor_back.xml" value="0.2105" />
         <entry key="..\:/Users/DELL/PostApi/app/src/main/res/drawable/white_round_back.xml" value="0.175" />
         <entry key="..\:/Users/DELL/PostApi/app/src/main/res/font/poppinsregular.xml" value="0.23247863247863249" />
+        <entry key="..\:/Users/DELL/PostApi/app/src/main/res/layout/activity_assignment.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/DELL/PostApi/app/src/main/res/layout/activity_exam_time_table.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/DELL/PostApi/app/src/main/res/layout/activity_holiday.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/DELL/PostApi/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
@@ -22,6 +23,8 @@
         <entry key="..\:/Users/DELL/PostApi/app/src/main/res/layout/activity_student_dashboard.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/DELL/PostApi/app/src/main/res/layout/activity_video_class.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/DELL/PostApi/app/src/main/res/layout/activity_you_tube.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/PostApi/app/src/main/res/layout/row_assignment_child.xml" value="0.264" />
+        <entry key="..\:/Users/DELL/PostApi/app/src/main/res/layout/row_assignment_parent.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/DELL/PostApi/app/src/main/res/layout/row_exam_child.xml" value="0.253125" />
         <entry key="..\:/Users/DELL/PostApi/app/src/main/res/layout/row_exam_parent.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/DELL/PostApi/app/src/main/res/layout/row_holi.xml" value="0.25416666666666665" />

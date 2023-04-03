@@ -9,6 +9,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.app.postapi.Assignment.AssignmentActivity;
 import com.app.postapi.ExamTimeTable.ExamTimeTableActivity;
 import com.app.postapi.Home.HomeActivity;
 import com.app.postapi.Library.LibraryActivity;
@@ -107,6 +108,13 @@ public class StudentDashboardActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(StudentDashboardActivity.this, ExamTimeTableActivity.class);
+                startActivity(intent);
+            }
+        });
+        iv_assignment.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(StudentDashboardActivity.this, AssignmentActivity.class);
                 startActivity(intent);
             }
         });
