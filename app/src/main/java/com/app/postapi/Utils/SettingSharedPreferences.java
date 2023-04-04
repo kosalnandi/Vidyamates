@@ -42,6 +42,7 @@ public class SettingSharedPreferences {
         tokenPreferences=context.getSharedPreferences("REFRESHED TOKEN", Context.MODE_PRIVATE);
         editorToken=tokenPreferences.edit();
     }
+
 //we use sharePreference Editor object to set the value
     public void setStudentId(String studentId){
         customerEditorLogin.putString(STUDENTID,studentId).commit();
